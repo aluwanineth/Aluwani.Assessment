@@ -1,0 +1,12 @@
+﻿{
+  "objectType": [
+    {
+      "value": 1,
+      "text": "XML"
+    },
+    {
+      "value": 2,
+      "text": "JSON"
+    }
+  ]
+}
